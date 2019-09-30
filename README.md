@@ -1,0 +1,2 @@
+# goscripts
+golang script fragment
